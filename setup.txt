@@ -1,0 +1,12 @@
+tạo vite : npm create vite@latest tênmuốntạo  -- --template vanilla
+           cd tênmuốntạo
+           npm i
+           npm i navigo
+           npm i axios
+           npm i yup
+           npm i bootstrap
+           npm i toastr
+           npm i -g json-server 
+           
+           npm run dev
+           json-server --watch db.json
